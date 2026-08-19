@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as n,F as l}from"./index-2bc39f70.js";const r={name:"Vue3Document"};function a(u,e,c,m,p,d){return o(),s(l,null,[e[0]||(e[0]=n("h2",null,"说明文档",-1)),e[1]||(e[1]=n("section",null,[n("h4",null,"vue2遇到的难题"),n("div",null," 1、 相同功能的代码可放在一起进行维护； ")],-1))],64)}const i=t(r,[["render",a]]);export{i as default};
